@@ -1,0 +1,4 @@
+# Como crear un repositorio remoto
+
+# Pasos para crearlo 
+Para crear un repositorio en GitHub, entramos a este y vamos a perfil, ahí nos dirigimos a repositorios y damos click en new, agregamos nombre del repositorio, descripción (opciona)l, elegimos si lo queremos público o privado y damos click en crear repositorio, ahora necesitamos  sincronizarlo con nuestro repositorio local, para esto utilizamos los comandos de git push y git pull, que sirven para subir los cambios de del directorio local al directorio remoto y para traer los cambios del repositorio remoto a mi repositorio local  respectivamente
