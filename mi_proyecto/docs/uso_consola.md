@@ -31,4 +31,4 @@ Para poder crear archivos y directorios en la consola utilizamos los siguientes 
 
 ### Ejemplo de como usar el comando cd y ls
 
-![cd y ls](https://github.com/hacUPB/prog-2510-git-github-YulianaBastidas/blob/main/mi_proyecto/images/cd%20y%20ls.jpg)
+![alt text](<../images/cd y ls.jpg>)
