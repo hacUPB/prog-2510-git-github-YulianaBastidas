@@ -1,0 +1,25 @@
+# Comandos para usar .gitignore en la consola
+ 
+# Verificar si un archivo es ignorado
+git check-ignore -v <archivo>
+
+# Ignorar archivos ya rastreados
+git rm --cached <archivo_o_directorio>  # Para un archivo
+git rm --cached -r <directorio>         # Para un directorio (recursivo)
+
+# Ignora una carpeta entera 
+carpeta/
+
+# Ignora todos los archivos con la extensión .log
+*.log
+
+# Ignora todos los archivos .class
+*.class
+
+# Ignora archivos en cualquier subdirectorio
+**/log.txt
+
+# Ignorar archivos solo en el directorio raíz:
+/archivo.txt
+
+# Información extraída de chatgpt
