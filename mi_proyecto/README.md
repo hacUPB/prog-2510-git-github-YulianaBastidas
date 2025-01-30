@@ -15,8 +15,8 @@ El proyecto es repositorio que hace una recopilacion de como utilizar la consola
 
 ## Enlace a archivos de docs
 
-Para poder revisar la documentacion del proyecto porfavor ingresar a la carpeta [Docs](prog-2510-git-github-YulianaBastidas\mi_proyecto\docs). En esta carpeta se encontraran los siguientes archivos:
+Para poder revisar la documentacion del proyecto porfavor ingresar a la carpeta [Docs](https://github.com/hacUPB/prog-2510-git-github-YulianaBastidas/edit/main/mi_proyecto/docs). En esta carpeta se encontraran los siguientes archivos:
 
-1. [uso_consola](prog-2510-git-github-YulianaBastidas\mi_proyecto\docs\repositorio_local.md)
-2. [repositorio_local](prog-2510-git-github-YulianaBastidas\mi_proyecto\docs\repositorio_remoto.md)
-3. [repositorio_remoto](prog-2510-git-github-YulianaBastidas\mi_proyecto\docs\uso_consola.md)
+1. [uso_consola](https://github.com/hacUPB/prog-2510-git-github-YulianaBastidas/edit/main/mi_proyecto/docs)
+2. [repositorio_local](mi_proyecto\docs\repositorio_remoto.md)
+3. [repositorio_remoto](mi_proyecto\docs\uso_consola.md)
