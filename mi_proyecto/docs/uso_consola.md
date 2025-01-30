@@ -28,3 +28,7 @@ Para poder crear archivos y directorios en la consola utilizamos los siguientes 
 2. Touch {Nombre del archivo .tipo de extencion}-> Para crear un archivo
 3. rm {Nombre del archivo o la carpeta}-> Para eliminar un archivo o carpeta. (Para eliminar carpetas usar el tag de -r)
 4. cp {cosa a copiar} {donde copiarla}  Para copiar un archivo o directorio hacia un lugar nuevo
+
+### Ejemplo de como usar el comando cd y ls
+
+![cd y ls](https://github.com/hacUPB/prog-2510-git-github-YulianaBastidas/blob/main/mi_proyecto/images/cd%20y%20ls.jpg)
