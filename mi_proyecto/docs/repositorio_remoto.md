@@ -26,3 +26,25 @@ Paso 4. Sinconización completa
 
 
 ![alt text](<../images/sincornización repo remoto con repo local.jpg>)
+
+
+
+
+### Investigación archivo .gitignore
+
+Un archivo .gitignore es un archivo de texto usado en proyectos con Git para especificar qué archivos o directorios no deben ser rastreados ni incluidos en el repositorio. Su función principal es excluir archivos innecesarios, temporales o sensibles, como:
+
+Archivos generados por el sistema o editores (.DS_Store, Thumbs.db).
+
+Configuraciones locales (.vscode/, .idea/).
+
+Dependencias (node_modules/).
+
+Archivos binarios o compilados (.class, .o).
+
+Ventajas:
+Mantiene el repositorio limpio: Evita que archivos irrelevantes se suban.
+
+Mejora el rendimiento: Reduce el tamaño del repositorio.
+
+Evita conflictos: Excluye archivos que pueden variar entre entornos.

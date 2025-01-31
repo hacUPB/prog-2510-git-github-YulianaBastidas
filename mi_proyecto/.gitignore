@@ -1,25 +1,33 @@
 # Comandos para usar .gitignore en la consola
- 
-# Verificar si un archivo es ignorado
-git check-ignore -v <archivo>
+ # Ignorar archivos de entorno y configuraciones locales
+.env
+*.env
+*.local
 
-# Ignorar archivos ya rastreados
-git rm --cached <archivo_o_directorio>  # Para un archivo
-git rm --cached -r <directorio>         # Para un directorio (recursivo)
+# Ignorar archivos generados por Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
 
-# Ignora una carpeta entera 
-carpeta/
+# Ignorar archivos de entornos virtuales
+venv/
+env/
+.venv/
 
-# Ignora todos los archivos con la extensión .log
+# Ignorar archivos de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de log y temporales
 *.log
-
-# Ignora todos los archivos .class
-*.class
-
-# Ignora archivos en cualquier subdirectorio
-**/log.txt
-
-# Ignorar archivos solo en el directorio raíz:
-/archivo.txt
+*.tmp
+*.swp
 
 # Información extraída de chatgpt
