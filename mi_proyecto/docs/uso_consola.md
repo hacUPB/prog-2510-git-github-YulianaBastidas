@@ -6,13 +6,13 @@ Para navegar la consola debemos utilizar unos comandos específicos los cuales m
 
 Para navegar entre carpetas vamos a utilizar el comando
 
-'''
+´´´
 cd {Nombre de la carpeta a entrar}
-'''
+´´´
 Este es abreviación de  change directory, este comando nos permite entrar a alguna carpeta en específico siempre y cuando estemos en la ruta correcta. 
 
 Nota: Es importante fijarse en la dirección actual que se nos muestra en la consola para poder ubicarnos fácilmente, en caso de querer cambiar a una carpeta anterior podemos usar el atajo de 
-''' cd .. ''' para viajar hacia la carpeta padre.
+´ cd .. ´ para viajar hacia la carpeta padre.
 
 Otro comando que podemos utilizar para navegación de la consola es el de '''pwd''' que nos permite imprimir la ruta en la cual nos encontramos el cual puede servir como indicador para saber en qué parte de las carpetas nos encontramos.
 
