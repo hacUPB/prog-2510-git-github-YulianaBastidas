@@ -1,0 +1,130 @@
+[33mcommit b25e8085b9167aa350cb53f97662f590827e797b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 21:16:58 2025 -0500
+
+    Resolví organización de imágenes en la carpeta docs
+
+[33mcommit bc49d1704eada0cfcee1b887e777d62b27ebec1b[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 21:13:36 2025 -0500
+
+    hice una corrección de imágen
+
+[33mcommit fe6d223be72846b2c2137ad5d220408ef1f9c146[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 15:37:17 2025 -0500
+
+    Agregué imágenes de como crear repos
+
+[33mcommit 02479e770430abeb6ee3c3faa600cfab917214ba[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 15:25:24 2025 -0500
+
+    Agregué imágen
+
+[33mcommit b72285f1636320bddeb38803deec04ac4550a843[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 15:21:25 2025 -0500
+
+    Agregué imágen de como crear repo remoto
+
+[33mcommit 41e40b8ffd3f2d994b92c218abb9d82486b0caea[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 15:16:26 2025 -0500
+
+    Agregué de otra forma la imágen del ejemplo de cd y ls
+
+[33mcommit eedf891d3be0b8480889ce0596104b900e4a29db[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 15:08:26 2025 -0500
+
+    Ya pude agregar el ejemplo
+
+[33mcommit 770e48c9cf52c0bbd69e56432f821ee379d67dd8[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 14:57:57 2025 -0500
+
+    Agregué ss de comando cd y ls
+
+[33mcommit 81c6cccf40d561655ad9a072f7c40a901a334e06[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 14:42:46 2025 -0500
+
+    Agregué dos imásgenes, solo que me olvidé hacer el commit para al anetrios, ya que subí cada una por separado
+
+[33mcommit 12a222979e854c6809f760280bd94806995812af[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 14:23:41 2025 -0500
+
+    Agregué información al archivo .gitignore
+
+[33mcommit 1457be77950d2509c5a59e9cdaa82c3bbdff1d60[m
+Merge: 615f609 e0bc0cb
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 00:15:58 2025 -0500
+
+    Merge branch 'main' of https://github.com/hacUPB/prog-2510-git-github-YulianaBastidas
+    
+    Este merge se ha creado puesto que se han realizado cambios desde la
+    interfaz de git hub para poder revisar si los archivos .md estaban
+    correctamente empleando sus respectivos enlaces.
+
+[33mcommit 615f60957535dcbf5153a681bfed624389f60817[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 00:15:42 2025 -0500
+
+    Agregue la primera captura de pantalla de la clonacion del repo remoto
+
+[33mcommit e0bc0cb86f597b107edcc1f7d5b7faa3006f030e[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 00:12:15 2025 -0500
+
+    Arregle enlace de archivos individuales
+
+[33mcommit 203ba7b12366bb8cf1e5dfcf37cab7dc97df5941[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 00:08:39 2025 -0500
+
+    Arregle enlace de carpeta Docs
+
+[33mcommit b5636f967a787b24f539defc9199ddc05a064f7b[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Thu Jan 30 00:00:41 2025 -0500
+
+    Correciones de enlaces a otros archivos
+
+[33mcommit 0164f24fdb6137069d521bf60abb085d57ac20c8[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Wed Jan 29 23:58:41 2025 -0500
+
+    Actividad 5 Realizada
+
+[33mcommit bd02aee233b9839bd5f5a935ae2741ff5576875d[m
+Author: YulianaBastidas <140168389+YulianaBastidas@users.noreply.github.com>
+Date:   Wed Jan 29 23:38:52 2025 -0500
+
+    Proyecto Iniciado
+
+[33mcommit 88f18c4c5f8549bf80eb23ea9a81b096b1570bad[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Jan 29 17:05:45 2025 +0000
+
+    add deadline
+
+[33mcommit 49a48d8d1512421b2f5ceb5bdab39976e26d65d0[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Jan 29 17:05:42 2025 +0000
+
+    Setting up GitHub Classroom Feedback
+
+[33mcommit fd76e5184a9918bbe4b0307bd0dbcd4fd3221a1d[m[33m ([m[1;31morigin/feedback[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Wed Jan 29 17:05:42 2025 +0000
+
+    GitHub Classroom Feedback
+
+[33mcommit 6a5238c9b5f21ec48b6134aa6965a17944b7aaf3[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Jan 16 23:20:52 2025 +0000
+
+    Initial commit
